@@ -1,4 +1,4 @@
-# 21102151_S1IF-09-TI1_ppb2324-2
+# 21102134_S1IF-09-TI1_ppb2324-2
 
 
 
@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/FikrianAF/21102151_s1if-09-ti1_ppb2324-2.git
+git remote add origin https://gitlab.com/NidzarMahendra/211021534_s1if-09-ti1_ppb2324-2.git
 git branch -M main
 git push -uf origin main
 ```
